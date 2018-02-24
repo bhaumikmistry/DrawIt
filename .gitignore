@@ -1,0 +1,8 @@
+
+# avoid the log file
+READMEDAILY.md
+
+
+# extra
+__pycache__/
+*$py.class
