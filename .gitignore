@@ -6,3 +6,6 @@ READMEDAILY.md
 # extra
 __pycache__/
 *$py.class
+*.pyc
+.vscode
+temp/
