@@ -931,7 +931,7 @@ class imageprocessing:
                 startDrawDegree=0,
                 endDrawDegree=360,
                 lineQuality=1,
-                stepDraw=0.1,
+                stepDraw=0.5,
                 centerX=point[0],
                 centerY=point[1],
                 radius=radius,
